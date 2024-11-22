@@ -23,4 +23,6 @@ C-Style for loop.
 
 List-Style for loop.
 
+![Screenshot 2024-11-22 203010](https://github.com/user-attachments/assets/467d9852-34a1-4caf-b9df-f9d378b44c6c)
+
 
