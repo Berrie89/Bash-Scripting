@@ -7,7 +7,7 @@ I wrote a bash script that will prompt a user to enter a number and ask if they 
 ## Project Implementation
 User input number: I used the echo keyword to prompt the user to enter a number, then the read command to assign a variable to the information provided by the user.
 Conditional logic: I used the if-else statement to ask if the user wants a full or partial table. 
-Use of Loop: I used the C-style for loop to implement the logic to generate the multiplication table. Find screenshot below:
+Use of Loop: I used both the C-style and list style for loop to implement the logic to generate the multiplication table. Find screenshot below:
 ![full table](https://github.com/user-attachments/assets/018661c2-a1bb-4c00-ba54-679d7d5a540d)
 
 ![partial table](https://github.com/user-attachments/assets/203cadcb-167c-4ab1-88cf-a87231d560c8)
@@ -17,5 +17,10 @@ Input Validation: I ensured the users enter valid numbers for the multiplication
 ![error message](https://github.com/user-attachments/assets/1e3519c6-bcfc-4a56-a5c3-fcac80f00409)
 
 ## Bash Script
+C-Style for loop.
+
+![Screenshot 2024-11-22 193256](https://github.com/user-attachments/assets/edf0e403-740e-4527-8204-ea5bbbf397fd)
+
+List-Style for loop.
 
 
