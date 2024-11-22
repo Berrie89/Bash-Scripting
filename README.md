@@ -1,4 +1,5 @@
 # Bash-Scripting
+Bash script is a sequence of commands or instructions that are executed by the shell program line by line. Bash scripting allows you to automate repititive tasks and processes
 ## Objective
 The objective of this project is to create a bash script that generates a multiplication table for a number entered by the user. For this project I used loops, user input and conditional logic.
 ## Project Description
